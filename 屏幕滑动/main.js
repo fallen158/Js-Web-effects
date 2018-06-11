@@ -1,7 +1,6 @@
 {
     let getUls = document.querySelectorAll('#ul>li')
     let getOls = document.querySelectorAll('#ol>li')
-    let getOl = document.querySelector('#ol')
 
     let bgcolor = ['pink', 'gray', 'blue', 'red', 'green']
     let leader = 0,
